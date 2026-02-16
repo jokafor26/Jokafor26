@@ -3,8 +3,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Github Projects Practice</b>
-  - [Praciting github]([https://github.com/jokafor26/Demo.git](https://github.com/jokafor26/Test)))
-  - https://github.com/jokafor26/Test))
+  - [Praciting github]([https://github.com/jokafor26/Demo.git]))
+  - [Practice uploading]([https://github.com/jokafor26/Test]))
 
 
 <h2>📺 Popular YouTube Videos</h2>
