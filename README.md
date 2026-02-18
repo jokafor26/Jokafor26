@@ -1,15 +1,27 @@
 <h1>Hi, I'm Joseph! <br/><a href="https://www.linkedin.com/in/jo26/">Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨🏾‍💻 Cybersecurity & Cloud Projects:</h2>
 
-- <b>Github Projects Practice</b>
-  - [Praciting github]
-https://github.com/jokafor26/Demo.git 
+- <b>Creating a virtual machine</b>
+  - [Centos Linux Lab](https://github.com/jokafor26/CentosLinux)
+
+- <b>Using Linux utilities</b>
+  - [Using Linux Utilities](https://github.com/jokafor26/LinuxUtilities)
+
+- <b>Using Linux utilities</b>
+  - [Password Lab](https://github.com/jokafor26/LinuxPasswords)
+
+
+- <b>Using Linux utilities</b>
+  - [Using Linux Utilities]
+ 
+- <b>Using Linux utilities</b>
+  - [Using Linux Utilities]
+
 - <b>practice uplaod</b>
   - [Practice uploading]
 https://github.com/jokafor26/Test
- - [launching lab]
-https://github.com/jokafor26/projectlabs
+
 
 
 <h2>📺 Popular YouTube Videos</h2>
