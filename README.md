@@ -11,17 +11,26 @@
 - <b>Using Linux utilities</b>
   - [Password Lab](https://github.com/jokafor26/LinuxPasswords)
 
-
-- <b>Using Linux utilities</b>
-  - [Using Linux Utilities]
+- <b>Cloud Lab</b>
+  - [AWS EC2 lab](https://github.com/jokafor26/LaunchingEC2)
  
-- <b>Using Linux utilities</b>
-  - [Using Linux Utilities]
+- <b>Creating EC2 users in Amazon Web Services</b>
+  - [Creating Users](https://github.com/jokafor26/CreatingEC2Users)
+ 
+- <b>Snapshot lab</b>
+  - [Snapshots & Cronjobs](https://github.com/jokafor26/CreatingSnapshots)
+ 
+- <b>Configuring Network Settings in Linux</b>
+  - [Linux netowrk config](https://github.com/jokafor26/RedHatLinuxNetworkConfig)
+ 
+- <b>AWS S3 & CLI</b>
+  - [S3 Objects](https://github.com/jokafor26/S3andAWScli)
+ 
+- <b>Learning github</b>
+  - [gitHub lab](https://github.com/jokafor26/IntrotoGithub)
 
-- <b>practice uplaod</b>
-  - [Practice uploading]
-https://github.com/jokafor26/Test
-
+- <b>Installing GUI on Redhat Linux</b>
+  - [GUI Installation](https://github.com/jokafor26/InstallingGUIonRHEL)
 
 
 <h2>📺 Popular YouTube Videos</h2>
