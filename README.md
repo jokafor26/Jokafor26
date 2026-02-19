@@ -23,9 +23,9 @@
 - [Installing GUI on Redhat Linux](https://github.com/jokafor26/InstallingGUIonRHEL)
 
 - [AWS Docker Install on Linux](https://github.com/jokafor26/DockerInstall)
-
+  
 - [Creating Ansible on Amazon Web Services](https://github.com/jokafor26/AnsibleonAWS)
-
+  
 - [Installing GlusterFS on AWS](https://github.com/jokafor26/GlusterfsAWS)
 
 <!--
