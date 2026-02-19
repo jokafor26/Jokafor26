@@ -24,6 +24,9 @@
 
 - [AWS Docker Install on Linux](https://github.com/jokafor26/DockerInstall)
 
+-[Creating Ansible on Amazon Web Services](https://github.com/jokafor26/AnsibleonAWS)
+
+-[Installing GlusterFS on AWS](https://github.com/jokafor26/GlusterfsAWS)
 
 <!--
 **jokafor26/jokafor26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
