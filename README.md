@@ -3,8 +3,6 @@
 <h2>👨🏾‍💻 Cybersecurity & Cloud Projects:</h2>
 
 - [Creating a virtual machine](https://github.com/jokafor26/CentosLinux)
-
-- [Amazon Web Services EC2 lab](https://github.com/jokafor26/LaunchingEC2)
   
 - [Encrypting & Decrypting Files](https://github.com/jokafor26/CryptographyLab)
 
@@ -17,6 +15,8 @@
 - [Creating Ansible on Amazon Web Services](https://github.com/jokafor26/AnsibleonAWS)
   
 - [Installing GlusterFS on AWS](https://github.com/jokafor26/GlusterfsAWS)
+  
+- [Amazon Web Services EC2 lab](https://github.com/jokafor26/LaunchingEC2)
   
 - [Using Linux Utilities](https://github.com/jokafor26/LinuxUtilities)
 
