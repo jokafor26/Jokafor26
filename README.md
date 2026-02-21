@@ -4,10 +4,6 @@
 
 - [Creating a virtual machine](https://github.com/jokafor26/CentosLinux)
 
-- [Using Linux Utilities](https://github.com/jokafor26/LinuxUtilities)
-
-- [Linux Password Lab](https://github.com/jokafor26/LinuxPasswords)
-
 - [Amazon Web Services EC2 lab](https://github.com/jokafor26/LaunchingEC2)
   
 - [Encrypting & Decrypting Files](https://github.com/jokafor26/CryptographyLab)
@@ -16,6 +12,16 @@
  
 - [Creating EC2 users in Amazon Web Services](https://github.com/jokafor26/CreatingEC2Users)
  
+- [AWS Docker Install on Linux](https://github.com/jokafor26/DockerInstall)
+  
+- [Creating Ansible on Amazon Web Services](https://github.com/jokafor26/AnsibleonAWS)
+  
+- [Installing GlusterFS on AWS](https://github.com/jokafor26/GlusterfsAWS)
+  
+- [Using Linux Utilities](https://github.com/jokafor26/LinuxUtilities)
+
+- [Linux Password Lab](https://github.com/jokafor26/LinuxPasswords)
+
 - [Snapshots & Cronjobs](https://github.com/jokafor26/CreatingSnapshots)
  
 - [Configuring Network Settings in Linux](https://github.com/jokafor26/RedHatLinuxNetworkConfig)
@@ -26,12 +32,6 @@
 
 - [Installing GUI on Redhat Linux](https://github.com/jokafor26/InstallingGUIonRHEL)
 
-- [AWS Docker Install on Linux](https://github.com/jokafor26/DockerInstall)
-  
-- [Creating Ansible on Amazon Web Services](https://github.com/jokafor26/AnsibleonAWS)
-  
-- [Installing GlusterFS on AWS](https://github.com/jokafor26/GlusterfsAWS)
-  
 - [Ubuntu Linu Set Up](https://github.com/jokafor26/UbuntuLinuxSetup)
    
 - [Locking Guest Account on Linux](https://github.com/jokafor26/LockdownGuest)
