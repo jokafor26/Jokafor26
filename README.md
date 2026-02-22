@@ -6,6 +6,8 @@
   
 - [Encrypting & Decrypting Files](https://github.com/jokafor26/CryptographyLab)
 
+- [SQL Injection and CSS lab](https://github.com/jokafor26/ThreatAssessment)
+
 - [Creating Web Certificates](https://github.com/jokafor26/SecureWeb)
  
 - [Creating EC2 users in Amazon Web Services](https://github.com/jokafor26/CreatingEC2Users)
