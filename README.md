@@ -8,6 +8,8 @@
 
 - [SQL Injection and CSS lab](https://github.com/jokafor26/ThreatAssessment)
 
+- [Creating IDS Snort Rules](https://github.com/jokafor26/SnortIDS)
+
 - [Creating Web Certificates](https://github.com/jokafor26/SecureWeb)
  
 - [Creating EC2 users in Amazon Web Services](https://github.com/jokafor26/CreatingEC2Users)
