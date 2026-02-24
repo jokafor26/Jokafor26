@@ -1,8 +1,6 @@
 <h1>Hi, I'm Joseph! </h1>
 
-<h2>Have a look at some labs I worked on 👨🏾‍💻</h2>
-
-<h2>Cybersecurity Projects:</h2>
+<h2>🛡️ Cybersecurity Projects:</h2>
 
 - [Encrypting & Decrypting Files](https://github.com/jokafor26/CryptographyLab)
 
@@ -31,7 +29,7 @@
 - [Locking Guest Account on Linux](https://github.com/jokafor26/LockdownGuest)
 
 
-<h2>Cloud Projects:</h2>
+<h2>🌩️ Cloud Projects:</h2>
 
   - [Creating EC2 users in Amazon Web Services](https://github.com/jokafor26/CreatingEC2Users)
  
