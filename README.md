@@ -8,6 +8,8 @@
 
 - [SQL Injection and CSS lab](https://github.com/jokafor26/ThreatAssessment)
 
+- [Spoofing IP & MAC Adresses with Nping](https://github.com/jokafor26/NpingSpoofingAttack)
+
 - [Creating IDS Snort Rules](https://github.com/jokafor26/SnortIDS)
 
 - [Creating Web Certificates](https://github.com/jokafor26/SecureWeb)
@@ -19,6 +21,8 @@
 - [Creating Ansible on Amazon Web Services](https://github.com/jokafor26/AnsibleonAWS)
   
 - [Installing GlusterFS on AWS](https://github.com/jokafor26/GlusterfsAWS)
+
+- [Using Snort with Nping](https://github.com/jokafor26/NpingSnort)
   
 - [Amazon Web Services EC2 lab](https://github.com/jokafor26/LaunchingEC2)
   
