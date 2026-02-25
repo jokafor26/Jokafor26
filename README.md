@@ -53,6 +53,27 @@
 
   - [Creating a virtual machine](https://github.com/jokafor26/CentosLinux)
 
+
+<h2>📡 Networking Projects</h2>
+
+ - [Configuring Dynamic Routing Protocols](https://github.com/jokafor26/dynamicrouting)
+ 
+ - [Troubleshooting Network Commands](https://github.com/jokafor26/troubleshootnet)
+  
+ - [Setting Up Inter-vlan Routing](https://github.com/jokafor26/intervlan)
+   
+ - [Switch Security](https://github.com/jokafor26/switchsecurity)
+    
+ - [Introduction to Cisco Switches](https://github.com/jokafor26/switchinglab)
+     
+ - [Multi-layer Switch Configuration](https://github.com/jokafor26/multiswitch)
+      
+ - [Protocols Logs in Wireshark](https://github.com/jokafor26/analyzenetwork)
+       
+ - [Viewing Switch Mac Addresses](https://github.com/jokafor26/switchandmac)
+        
+ - [Pinging Nodes on Packet Tracer](https://github.com/jokafor26/pingpacket)
+ 
 <!--
 **jokafor26/jokafor26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
