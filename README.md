@@ -56,6 +56,8 @@
 
 <h2>📡 Networking Projects</h2>
 
+ - [Using Cisco Packet Tracer to Create a Network Infrastructure](https://github.com/jokafor26/networkinfrastructure)
+ 
  - [Configuring Dynamic Routing Protocols](https://github.com/jokafor26/dynamicrouting)
  
  - [Troubleshooting Network Commands](https://github.com/jokafor26/troubleshootnet)
