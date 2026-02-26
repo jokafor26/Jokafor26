@@ -4,7 +4,7 @@
 
 - [Encrypting & Decrypting Files](https://github.com/jokafor26/CryptographyLab)
 
-- [SQL Injection and CSS lab](https://github.com/jokafor26/ThreatAssessment)
+- [Using WebGot to understand SQL Injection and CSS](https://github.com/jokafor26/ThreatAssessment)
 
 - [Spoofing IP & MAC Adresses with Nping](https://github.com/jokafor26/NpingSpoofingAttack)
 
