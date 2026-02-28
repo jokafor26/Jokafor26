@@ -75,7 +75,12 @@
  - [Viewing Switch Mac Addresses](https://github.com/jokafor26/switchandmac)
         
  - [Pinging Nodes on Packet Tracer](https://github.com/jokafor26/pingpacket)
- 
+
+<h2>🔎 Digital Forensics</h2>
+
+ - [Solving Cases Using Autopsy](https://github.com/jokafor26/AutopsyForensics)
+
+ - [Making Images Using FTK Imager](https://github.com/jokafor26/ftkimager)
 <!--
 **jokafor26/jokafor26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
