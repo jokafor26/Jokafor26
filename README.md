@@ -81,6 +81,8 @@
  - [Solving Cases Using Autopsy](https://github.com/jokafor26/AutopsyForensics)
 
  - [Making Images Using FTK Imager](https://github.com/jokafor26/ftkimager)
+
+ - [Email Analysis With Aid4Mail](https://github.com/jokafor26/aid4mail)
 <!--
 **jokafor26/jokafor26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
