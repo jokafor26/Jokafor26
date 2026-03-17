@@ -83,6 +83,16 @@
  - [Making Images Using FTK Imager](https://github.com/jokafor26/ftkimager)
 
  - [Email Analysis With Aid4Mail](https://github.com/jokafor26/aid4mail)
+
+ - [Using OSForensics Tool](https://github.com/jokafor26/OSForensics)
+
+ - [Forensics Using WinHex](https://github.com/jokafor26/WinHex)
+
+ - [Linux File System Forensics](https://github.com/jokafor26/LinuxForensics)
+
+ - [Steganography](https://github.com/jokafor26/Steganography)
+
+ - [Hash Database Forensics](https://github.com/jokafor26/Hash-Hex)
 <!--
 **jokafor26/jokafor26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
