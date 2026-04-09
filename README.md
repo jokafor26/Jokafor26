@@ -57,13 +57,29 @@
 <h2>📡 Networking Projects</h2>
 
  - [Using Cisco Packet Tracer to Create a Network Infrastructure](https://github.com/jokafor26/networkinfrastructure)
- 
+
+ - [Introduction To Routing](https://github.com/jokafor26/IntroToRouting)
+   
  - [Configuring Dynamic Routing Protocols](https://github.com/jokafor26/dynamicrouting)
  
  - [Troubleshooting Network Commands](https://github.com/jokafor26/troubleshootnet)
   
  - [Setting Up Inter-vlan Routing](https://github.com/jokafor26/intervlan)
    
+ - [Vlan VTP & Inter-vlan Routing](https://github.com/jokafor26/VlanRouting)
+ 
+ - [Default Static Routing](https://github.com/jokafor26/DefaultStaticRoute)
+   
+ - [Standard Static Routing](https://github.com/jokafor26/StandardStaticRouting)
+   
+ - [Configuring Static Routing](https://github.com/jokafor26/ConfiguringStaticRouting)
+
+ - [Routing Information Protocol](https://github.com/jokafor26/RoutingInformationProtocol)
+
+ - [Single Area Open Shortest Path First](https://github.com/jokafor26/SingleOSPF)
+
+ - [Multiple Area Open Shortest Path First](https://github.com/jokafor26/MultipleAreaOSPF)
+    
  - [Switch Security](https://github.com/jokafor26/switchsecurity)
     
  - [Introduction to Cisco Switches](https://github.com/jokafor26/switchinglab)
